@@ -1,0 +1,5 @@
+*{margin: 0;padding: 0;}
+body,a,span,li{font-size: 14px;list-style: none;color: #333;text-decoration: none;}
+#app{width: 1903px;background: #fff;}
+#app .boder-right{border-right: none;}
+#app .margin-right{margin-right: 0px;}
